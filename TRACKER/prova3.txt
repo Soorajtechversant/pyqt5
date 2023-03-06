@@ -1,0 +1,130 @@
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ s ] pressed //////key [ 's' ] released /// 
+///key [ d ] pressed //////key [ 'd' ] released /// 
+///key [ a ] pressed //////key [ d ] pressed //////key [ 'a' ] released /// 
+///key [ 'd' ] released /// 
+///key [ m ] pressed //////key [ 'm' ] released /// 
+///key [ i ] pressed //////key [ 'i' ] released /// 
+///key [ n ] pressed //////key [ 'n' ] released /// 
+///key [ p ] pressed //////key [ 'p' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ s ] pressed //////key [ 's' ] released /// 
+///key [ s ] pressed //////key [ 's' ] released /// 
+///key [ e ] pressed //////key [ 'e' ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///key [ w ] pressed //////key [ 'w' ] released /// 
+///key [ r ] pressed //////key [ 'r' ] released /// 
+///key [ = ] pressed //////key [ '=' ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///key [ o ] pressed //////key [ 'o' ] released /// 
+///key [ r ] pressed //////key [ 'r' ] released /// 
+///key [ d ] pressed //////key [ 'd' ] released /// 
+///special key Key.ctrl pressed//////key [ c ] pressed //////key [ 'c' ] released /// 
+///key [ Key.ctrl ] released /// 
+///special key Key.ctrl pressed//////special key Key.ctrl pressed//////key [ c ] pressed //////key [ 'c' ] released /// 
+///key [ Key.ctrl ] released /// 
+///special key Key.ctrl pressed//////key [ v ] pressed //////key [ 'v' ] released /// 
+///key [ Key.ctrl ] released /// 
+///special key Key.ctrl pressed//////key [ s ] pressed //////key [ 's' ] released /// 
+///key [ Key.ctrl ] released /// 
+///special key Key.ctrl pressed//////key [ c ] pressed //////key [ 'c' ] released /// 
+///key [ Key.ctrl ] released /// 
+///special key Key.ctrl pressed//////key [ w ] pressed //////key [ 'w' ] released /// 
+///key [ t ] pressed //////key [ 't' ] released /// 
+///key [ f ] pressed //////key [ 'f' ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///key [ s ] pressed //////key [ 's' ] released /// 
+///key [ e ] pressed //////key [ t ] pressed //////key [ 'e' ] released /// 
+///key [ 't' ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///special key Key.backspace pressed//////key [ Key.backspace ] released /// 
+///key [ d ] pressed //////key [ 'd' ] released /// 
+///key [ f ] pressed //////key [ 'f' ] released /// 
+///special key Key.ctrl pressed//////key [ c ] pressed //////key [ 'c' ] released /// 
+///key [ Key.ctrl ] released /// 
+///special key Key.ctrl pressed//////key [ r ] pressed //////key [ 'r' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ m ] pressed //////key [ 'm' ] released /// 
+///key [ a ] pressed //////key [ n ] pressed //////key [ 'a' ] released /// 
+///key [ 'n' ] released /// 
+///key [ k ] pressed //////key [ 'k' ] released /// 
+///key [ u ] pressed //////key [ 'u' ] released /// 
+///key [ t ] pressed //////key [ 't' ] released /// 
+///key [ t ] pressed //////key [ 't' ] released /// 
+///key [ y ] pressed //////key [ 'y' ] released /// 
+///key [ x ] pressed //////key [ c ] pressed //////key [ 'x' ] released /// 
+///key [ 'c' ] released /// 
+///key [ x ] pressed //////key [ c ] pressed //////key [ 'x' ] released /// 
+///key [ 'c' ] released /// 
+///key [ z ] pressed //////key [ x ] pressed //////key [ c ] pressed //////key [ 'z' ] released /// 
+///key [ 'x' ] released /// 
+///key [ 'c' ] released /// 
+///key [ d ] pressed //////key [ 'd' ] released /// 
+///key [ f ] pressed //////key [ 'f' ] released /// 
+///key [ d ] pressed //////key [ 'd' ] released /// 
+///key [ a ] pressed //////key [ s ] pressed //////key [ 'a' ] released /// 
+///key [ a ] pressed //////key [ 's' ] released /// 
+///key [ 'a' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ s ] pressed //////key [ 's' ] released /// 
+///key [ d ] pressed //////key [ 'd' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ s ] pressed //////key [ 's' ] released /// 
+///key [ d ] pressed //////key [ 'd' ] released /// 
+///key [ f ] pressed //////key [ 'f' ] released /// 
+///key [ g ] pressed //////key [ 'g' ] released /// 
+///key [ h ] pressed //////key [ 'h' ] released /// 
+///key [ j ] pressed //////key [ 'j' ] released /// 
+///key [ k ] pressed //////key [ 'k' ] released /// 
+///key [ l ] pressed //////key [ 'l' ] released /// 
+///key [ q ] pressed //////key [ m ] pressed //////key [ 'm' ] released /// 
+///key [ e ] pressed //////key [ 'e' ] released /// 
+///key [ g ] pressed //////key [ 'g' ] released /// 
+///key [ h ] pressed //////key [ 'h' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///special key Key.ctrl pressed//////key [ c ] pressed //////key [ 'c' ] released /// 
+///key [ Key.ctrl ] released /// 
+///special key Key.cmd pressed//////key [ Key.cmd ] released /// 
+///key [ r ] pressed //////key [ 'r' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ m ] pressed //////key [ 'm' ] released /// 
+///key [ u ] pressed //////key [ 'u' ] released /// 
+///key [ g ] pressed //////key [ 'g' ] released /// 
+///key [ h ] pressed //////key [ 'h' ] released /// 
+///key [ o ] pressed //////key [ 'o' ] released /// 
+///key [ s ] pressed //////key [ 's' ] released /// 
+///key [ t ] pressed //////key [ 't' ] released /// 
+///special key Key.enter pressed//////key [ Key.enter ] released /// 
+///key [ 1 ] pressed //////key [ '1' ] released /// 
+///key [ 2 ] pressed //////key [ '2' ] released /// 
+///key [ 3 ] pressed //////key [ '3' ] released /// 
+///key [ 4 ] pressed //////key [ '4' ] released /// 
+///key [ None ] pressed //////key [ <65437> ] released /// 
+///key [ 6 ] pressed //////key [ '6' ] released /// 
+///key [ / ] pressed //////key [ '/' ] released /// 
+///key [ * ] pressed //////key [ '*' ] released /// 
+///key [ / ] pressed //////key [ '/' ] released /// 
+///key [ , ] pressed //////key [ ',' ] released /// 
+///special key Key.shift_r pressed//////key [ Key.shift_r ] released /// 
+///special key Key.enter pressed//////key [ Key.enter ] released /// 
+///special key Key.enter pressed//////key [ Key.enter ] released /// 
+///special key Key.shift_r pressed//////key [ Key.shift_r ] released /// 
+///special key Key.ctrl_r pressed//////key [ Key.ctrl_r ] released /// 
+///special key Key.alt_r pressed//////key [ Key.alt_r ] released /// 
+///key [ . ] pressed //////key [ '.' ] released /// 
+///key [ , ] pressed //////key [ ',' ] released /// 
+///key [ / ] pressed //////key [ '/' ] released /// 
+///key [ a ] pressed //////key [ s ] pressed //////key [ 'a' ] released /// 
+///key [ 's' ] released /// 
+///key [ u ] pressed //////key [ 'u' ] released /// 
+///key [ r ] pressed //////key [ 'r' ] released /// 
+///key [ a ] pressed //////key [ 'a' ] released /// 
+///key [ n ] pressed //////key [ 'n' ] released /// 
+///special key Key.enter pressed//////key [ Key.enter ] released /// 
+///key [ + ] pressed //////key [ '+' ] released /// 
+///key [ - ] pressed //////key [ '-' ] released /// 
